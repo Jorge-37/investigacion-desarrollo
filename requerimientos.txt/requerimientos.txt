@@ -1,0 +1,22 @@
+requerimientos
+como quiere que la pagina se vea segun Rubi:
+1. Mejorar el navbar
+2. La vista del logo
+3. botones en el lado inferior derecho que lleve a las redes sociales
+4. Mejorar el tono de colores
+5. Mejorar la galeria de recursos
+
+como quiero que se vea segun yo: quiero que la pagia se vea atractiva facil de entender y navegar 
+ accesible para la comunicacion quiero que se vea ordenada y agradable para cualquier usuario
+para la comunicacion
+1. organizacion de headers
+2. la barra superior con facilidad de acceso a la comunicacion
+3 jerarquia de informacion
+4 distribucion de secciones 
+5. que sea mas compacto eliminando espacios en blanco 
+6 botones targetas tipografia 
+7 mas importante la navegacion
+
+lo que nesesitamos hacer ahora
+1. navbar 
+2. propociciones??????
